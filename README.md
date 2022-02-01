@@ -8,7 +8,7 @@
 _Replace anything surrounded by the `< >` symbols (including the < >)._
 
 ## SUMMARY OF LATE POLICY FOR THE COURSE:
- < Provide a  description of the courses late policy >
+For any labs that do not use grace days, 10% of the total grade is deducted each day. You can submit or resubmit any labs until the last day of classes for up to 50% of the credit.
 
 ## GRACE DAYS
 Grace days used for this assignment: 0
